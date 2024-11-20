@@ -1,5 +1,5 @@
 # Bengali-Inscription-to-Knowledge-Graph (BIKG) 
-Bengali-Inscription-to-Knowledge-Graph (BIKG) is a pioneering project that aims to make Bengali cultural history accessible, understandable, and interactable through a digital platform. It focuses on converting historical Bengali inscriptions into a structured knowledge graph, leveraging state-of-the-art techniques in data extraction, ontology development, and semantic querying. `The folder size is bigger than 100MB. So, we add it in releases.`
+Bengali-Inscription-to-Knowledge-Graph (BIKG) is a pioneering project that aims to make Bengali cultural history accessible, understandable, and interactable through a digital platform. It focuses on converting historical Bengali inscriptions into a structured knowledge graph, leveraging state-of-the-art techniques in data extraction, ontology development, and semantic querying. `The folder size is bigger than 100MB. So, we added it in releases.`
 
 ## Project Overview
 BIKG integrates multiple data sources and methodologies to process 47 inscriptions from the 3rd century B.C. to the 12th century A.D. It ensures that historical data is preserved and made available in a ready-to-query format.
